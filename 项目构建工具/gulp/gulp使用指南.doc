@@ -1,0 +1,14 @@
+gulp使用
+
+入门
+1、全局安装gulp：
+	$ npm install -g gulp
+2、作为项目的开发以来安装
+	$ npm install --save-dev gulp
+3、在项目根目录下创建一个名为gulpfile.js的文件
+	var gulp = require('gulp') ;
+	gulp.task('default' , function(){
+		//默认的任务代码
+	}) ;
+4、运行gulp
+	$ gulp
