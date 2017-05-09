@@ -1,0 +1,13 @@
+HTML
+  尽量标签符合语义化
+  
+CSS
+  使用import，减少使用link
+  使用less的缓存
+  css文件尽量压缩
+  
+JavaScript
+  使用局部缓存
+  使用事件委托
+  js文件压缩
+  将多次操作合并为一个操作
