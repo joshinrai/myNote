@@ -1,0 +1,22 @@
+//初始化文件夹为本地代码仓库
+git init
+
+//从远程仓库克隆项目
+git clone <远程仓库url地址>
+
+//获取其他人的代码
+git pull
+
+//查看修改
+git status 
+
+//将修改过的内容添加到缓存
+git add .
+
+//将修改的代码提交到本地仓库
+git commit -m 'balabala'
+
+//将修改的代码提交到远程仓库
+git push
+
+/***后续继续添加***/
