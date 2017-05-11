@@ -1,5 +1,7 @@
 http劫持
 
+dns劫持
+
 xss跨站脚本攻击(Cross-site scripting)
 
 csrf跨站请求伪造(Cross-site request forgery)
