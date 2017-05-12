@@ -19,4 +19,6 @@ git commit -m 'balabala'
 //将修改的代码提交到远程仓库
 git push
 
+git过滤，控制上传，参考博客:http://blog.csdn.net/hustpzb/article/details/8649545
+
 /***后续继续添加***/
