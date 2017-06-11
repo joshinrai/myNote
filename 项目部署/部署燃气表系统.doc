@@ -1,0 +1,3 @@
+使用阿里云ecs部署燃气表系统
+使用yum安装myslq,安装路径/usr/share/mysql(如果找不到,使用find / -name my-medium.cnf)
+
